@@ -2,6 +2,7 @@
 se explicara paso a paso como crear usuarios y grupo
 
 -Entrar con usuario root
+
 -Para crear usuario utilizamos en comando useradd, lo utilizaremos asi
 **useradd marina**
 **useradd yesy**
